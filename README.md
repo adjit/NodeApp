@@ -9,7 +9,7 @@ This repository should have the ability to just be downloaded and run in docker.
 
 # Running
 - To run from within the `NodeApp` repository with `Docker` running run as follows
-> `docker build -t <imageName> -f .\\.Dockerfile .`
+> `docker build -t <imageName> -f .\.Dockerfile .`
 >
 > `docker run --rm -d -p 8080:8080 <imageName>:latest`
 
