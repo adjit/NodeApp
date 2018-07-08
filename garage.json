@@ -1,0 +1,20 @@
+{
+    "garage" : [
+        {
+            "id":1,
+            "car":"Ford Explorer 2015"
+        },
+        {
+            "id":2,
+            "car":"Ford Mustange 2017"
+        },
+        {
+            "id":3,
+            "car":"Jeep Wrangler 2008"
+        },
+        {
+            "id":4,
+            "car":"Lincoln Continental 2014"
+        }
+    ]
+}
